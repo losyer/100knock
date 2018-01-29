@@ -1,0 +1,1 @@
+classias-train -tb -a lbfgs.logistic -m baseline.model baseline.txt

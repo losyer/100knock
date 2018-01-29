@@ -1,0 +1,1 @@
+{i+1: w[0] if i+1 in  {1, 5, 6, 7, 8, 9, 15, 16, 19} else w[0:2] for i,w in enumerate("Hi He Lied Because Boron Could Not Oxidize Fluorine. New Nations Mgiht Also Sign Peace Security Clause. Arthur King Can.".translate(None,",.").split())}
